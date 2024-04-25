@@ -1,1 +1,4 @@
-theme: jekyll-theme-minimal
+title: ARC test data cat
+description: A test of theme for Arc Data Cat
+theme: jekyll-theme-monderist
+show_downloads: false
