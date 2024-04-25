@@ -1,5 +1,6 @@
 ---
-title: Welcome to my blog
+layout: default
+title: ARC Test
 ---
 
 **This is a subtitle**
