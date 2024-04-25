@@ -3,5 +3,5 @@ layout: default
 title: ARC Test
 ---
 
-**This is a subtitle**
+<img url="images/Frances_Trevor_Arctic-LTER_scaled">
 
